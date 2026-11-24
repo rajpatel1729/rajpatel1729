@@ -7,15 +7,9 @@
 </a>
 
 <p>
-    <a href="https://github.com/rajpatel1729">
-      <img src="https://img.shields.io/badge/GitHub-rajpatel1729-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-    <a href="https://www.linkedin.com/in/raj-patel-2003/">
-      <img src="https://img.shields.io/badge/LinkedIn-Raj%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <a href="https://www.linkedin.com/in/raj-patel-2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raj-Patel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajpatel1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajpatel1729" height="30" width="40" /></a>
     </a>
-  <a href="https://github.com/rajpatel1729?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
 </p>
 
 </div>
