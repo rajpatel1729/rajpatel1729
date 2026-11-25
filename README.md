@@ -41,14 +41,3 @@ create AI-powered workflows that streamline complex engineering systems.
 | Databases | MySQL, SQL Server |
 | Cloud & Infrastructure | AWS, Databricks, Terraform |
 | DevOps & Security | GitHub Actions, Azure Pipelines, Maven, Autosys, Fortify, Mend |
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajpatel1729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel1729&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajpatel1729&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub contribution streak"/>
-</div>
